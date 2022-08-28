@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-28T05:49:42.299Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="xUigjzDT70zD-BSeJ0NY" version="17.4.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-28T09:54:37.311Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="DnkWl__hReMXcDJyy0on" version="17.4.5" type="github" pages="3">
   <diagram id="-ivZDV_DeqCRNgWoUYwM" name="Page-1">
     <mxGraphModel dx="946" dy="540" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -176,7 +176,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-Wb7OWDnRTRxgCEOe970" name="Page-2">
-    <mxGraphModel dx="4254" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4254" dy="540" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -248,6 +248,48 @@
         </mxCell>
         <mxCell id="qv53UhpOGK3gpaJgKTyG-23" value="AI insights" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="qv53UhpOGK3gpaJgKTyG-16">
           <mxGeometry x="160" y="150" width="115" height="39" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Kf8XaKeNI-lBQs4RoVRc" name="Page-3">
+    <mxGraphModel dx="946" dy="540" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DerYnWazT5LfiBZjRy-q-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;" edge="1" parent="1" source="DerYnWazT5LfiBZjRy-q-1" target="DerYnWazT5LfiBZjRy-q-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="251" y="123" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DerYnWazT5LfiBZjRy-q-4" value="ingress" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Verdana;" vertex="1" connectable="0" parent="DerYnWazT5LfiBZjRy-q-3">
+          <mxGeometry x="-0.0417" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DerYnWazT5LfiBZjRy-q-1" value="UI" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="46" y="93" width="108" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DerYnWazT5LfiBZjRy-q-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Verdana;" edge="1" parent="1" source="DerYnWazT5LfiBZjRy-q-2" target="DerYnWazT5LfiBZjRy-q-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="123" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DerYnWazT5LfiBZjRy-q-2" value="Backend Service" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="251" y="93" width="149" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="DerYnWazT5LfiBZjRy-q-5" value="Database" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="477" y="93" width="136" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DerYnWazT5LfiBZjRy-q-7" value="Service insta" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="261" y="100" width="120" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="DerYnWazT5LfiBZjRy-q-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="261" y="210" width="120" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
