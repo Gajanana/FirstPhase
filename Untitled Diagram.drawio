@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-07T17:00:21.510Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36" etag="V6E3MKOoXpzhh7Lo8yUH" version="20.2.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-09-07T17:29:44.865Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36" etag="F-GTEg4Z2O2DxrN7Fjpp" version="20.2.7" type="github" pages="5">
   <diagram id="-ivZDV_DeqCRNgWoUYwM" name="Page-1">
     <mxGraphModel dx="1666" dy="898" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -518,6 +518,36 @@
         </mxCell>
         <mxCell id="5YhDHw9-SCcAPZygZfme-44" value="Production qualification" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-774" y="1155" width="142" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-45" value="Modifiabilty" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1002" y="1350" width="78" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-46" value="Runtime" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-747" y="1249" width="63" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-47" value="There should be&amp;nbsp; configurations exposed&lt;br&gt;&amp;nbsp;to devops to&amp;nbsp; modify certain features such as logging , Device messege rate&lt;br&gt;caching etc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-565" y="1213" width="424" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-48" value="Users also should have knobs to&amp;nbsp; apply device configuration on individual&lt;br&gt;device level or Cluster level&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-547.5" y="1282" width="407" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-49" value="Plug and Play" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-765" y="1350" width="92" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-50" value="Services should be stateless and have single responsibility &lt;br&gt;so that we can replace with different componant &lt;br&gt;EX . WIFI keycache should not affect Device monitoring" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-521.5" y="1340" width="330" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-54" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontColor=#000000;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1006" y="1453" as="sourcePoint" />
+            <mxPoint x="-150" y="1445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-56" value="Performance" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1002" y="1531" width="87" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-57" value="Dashboard" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-758" y="1494" width="77" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
