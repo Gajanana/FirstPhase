@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T17:16:09.059Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36" etag="Tnye5bYqLR3bY8MmyMm8" version="20.2.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-09-07T17:00:21.510Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36" etag="V6E3MKOoXpzhh7Lo8yUH" version="20.2.7" type="github" pages="5">
   <diagram id="-ivZDV_DeqCRNgWoUYwM" name="Page-1">
     <mxGraphModel dx="1666" dy="898" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -394,7 +394,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5YhDHw9-SCcAPZygZfme-1" value="Utilitty" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1125" y="311" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1169" y="562" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5YhDHw9-SCcAPZygZfme-2" value="&lt;b&gt;Quality Attribute&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-998" y="41" width="112" height="26" as="geometry" />
@@ -439,7 +439,85 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5YhDHw9-SCcAPZygZfme-18" value="Availabilty" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-968" y="430" width="72" height="26" as="geometry" />
+          <mxGeometry x="-982.5" y="411" width="72" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-19" value="&lt;span style=&quot;font-size: 10pt;&quot;&gt;Application SLA&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="343" width="148.5" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-20" value="&lt;span style=&quot;font-size: 10pt;&quot;&gt;Application Should have an availability of 99.5 percent of the time (&lt;/span&gt;&lt;b style=&quot;font-size: 13.3333px;&quot;&gt;M,H)&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-462" y="332" width="305" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-21" value="&lt;span style=&quot;font-size: 10pt;&quot;&gt;Hardware failover&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="409" width="148.5" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-22" value="&lt;span style=&quot;font-size: 10pt;&quot;&gt;In case of node failover app should switchover to other node within 1 minute&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;(&lt;/span&gt;&lt;b style=&quot;font-size: 13.3333px;&quot;&gt;M,M)&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="403" width="305" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-23" value="&lt;span style=&quot;font-size: 10pt;&quot;&gt;Network failure&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="491" width="148.5" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-24" value="&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;There should be a alternate network configured to recover within 20 seconds&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="480" width="310" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-25" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontColor=#000000;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1006" y="915" as="sourcePoint" />
+            <mxPoint x="-172" y="915" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-26" value="Security" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-979" y="746" width="61" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-27" value="&lt;span style=&quot;font-size: 10pt;&quot;&gt;Data confidentiality&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="624" width="148.5" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-28" value="&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;No hardcoded secrets should be present . all secrets should be encrypted&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="611" width="305" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-29" value="&lt;span style=&quot;font-size: 10pt;&quot;&gt;Data Integrity&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="706" width="148.5" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-30" value="&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;There should be enough security present to&amp;nbsp; make sure Users without permission will not be able to make changes to customer data&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="706" width="305" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-31" value="&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;There should not be any unintended modification to data without user interaction&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="778" width="194" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-34" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontColor=#000000;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1006" y="1207" as="sourcePoint" />
+            <mxPoint x="-172" y="1207" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-35" value="Testability" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-987.5" y="1031" width="71" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-36" value="&lt;span style=&quot;font-size: 10pt;&quot;&gt;Data Availabilty&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="856" width="148.5" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-37" value="Test Coverage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-772" y="967" width="95" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-38" value="Code coverage should&amp;nbsp; be above 75 percent otherwise CI should fail" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-535" y="951" width="382" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-39" value="Adequate&amp;nbsp; Functional testing should be done" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-471" y="979" width="256" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-40" value="Contract testing using framework such as PACT . Otherwise CI fails" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-528" y="1009" width="376" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-41" value="QA Acceptance" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-774" y="1061" width="100" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-42" value="Smoke and automation tests should be present &lt;br&gt;and they should&amp;nbsp; pass" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-521" y="1053.5" width="269" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-43" value="There should be enough error messeges &lt;br&gt;and next action suggestion when API fails" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-521" y="1143" width="239" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-44" value="Production qualification" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-774" y="1155" width="142" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
