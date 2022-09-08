@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-07T17:29:44.865Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36" etag="F-GTEg4Z2O2DxrN7Fjpp" version="20.2.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-09-08T14:39:00.831Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36" etag="O8ONbb_qW87ckpNtIxTJ" version="20.2.7" type="github" pages="5">
   <diagram id="-ivZDV_DeqCRNgWoUYwM" name="Page-1">
     <mxGraphModel dx="1666" dy="898" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -389,7 +389,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6QuJd25rt9c4DnNZyFCL" name="Page-5">
-    <mxGraphModel dx="2866" dy="898" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2866" dy="883" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -499,22 +499,22 @@
           <mxGeometry x="-772" y="967" width="95" height="26" as="geometry" />
         </mxCell>
         <mxCell id="5YhDHw9-SCcAPZygZfme-38" value="Code coverage should&amp;nbsp; be above 75 percent otherwise CI should fail" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-535" y="951" width="382" height="26" as="geometry" />
+          <mxGeometry x="-455" y="944" width="382" height="26" as="geometry" />
         </mxCell>
         <mxCell id="5YhDHw9-SCcAPZygZfme-39" value="Adequate&amp;nbsp; Functional testing should be done" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-471" y="979" width="256" height="26" as="geometry" />
+          <mxGeometry x="-455" y="975" width="256" height="26" as="geometry" />
         </mxCell>
         <mxCell id="5YhDHw9-SCcAPZygZfme-40" value="Contract testing using framework such as PACT . Otherwise CI fails" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-528" y="1009" width="376" height="26" as="geometry" />
+          <mxGeometry x="-460" y="1021" width="376" height="26" as="geometry" />
         </mxCell>
         <mxCell id="5YhDHw9-SCcAPZygZfme-41" value="QA Acceptance" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-774" y="1061" width="100" height="26" as="geometry" />
         </mxCell>
         <mxCell id="5YhDHw9-SCcAPZygZfme-42" value="Smoke and automation tests should be present &lt;br&gt;and they should&amp;nbsp; pass" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-521" y="1053.5" width="269" height="41" as="geometry" />
+          <mxGeometry x="-458" y="1057" width="269" height="41" as="geometry" />
         </mxCell>
         <mxCell id="5YhDHw9-SCcAPZygZfme-43" value="There should be enough error messeges &lt;br&gt;and next action suggestion when API fails" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-521" y="1143" width="239" height="41" as="geometry" />
+          <mxGeometry x="-458" y="1140" width="239" height="41" as="geometry" />
         </mxCell>
         <mxCell id="5YhDHw9-SCcAPZygZfme-44" value="Production qualification" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-774" y="1155" width="142" height="26" as="geometry" />
@@ -525,17 +525,17 @@
         <mxCell id="5YhDHw9-SCcAPZygZfme-46" value="Runtime" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-747" y="1249" width="63" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="5YhDHw9-SCcAPZygZfme-47" value="There should be&amp;nbsp; configurations exposed&lt;br&gt;&amp;nbsp;to devops to&amp;nbsp; modify certain features such as logging , Device messege rate&lt;br&gt;caching etc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-565" y="1213" width="424" height="55" as="geometry" />
+        <mxCell id="5YhDHw9-SCcAPZygZfme-47" value="There should be&amp;nbsp; configurations exposed&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; to devops to&amp;nbsp; modify certain features such as logging ,&lt;br&gt;Device messege rate caching etc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-524" y="1226" width="378" height="55" as="geometry" />
         </mxCell>
         <mxCell id="5YhDHw9-SCcAPZygZfme-48" value="Users also should have knobs to&amp;nbsp; apply device configuration on individual&lt;br&gt;device level or Cluster level&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-547.5" y="1282" width="407" height="41" as="geometry" />
+          <mxGeometry x="-458" y="1296" width="407" height="41" as="geometry" />
         </mxCell>
         <mxCell id="5YhDHw9-SCcAPZygZfme-49" value="Plug and Play" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-765" y="1350" width="92" height="26" as="geometry" />
         </mxCell>
         <mxCell id="5YhDHw9-SCcAPZygZfme-50" value="Services should be stateless and have single responsibility &lt;br&gt;so that we can replace with different componant &lt;br&gt;EX . WIFI keycache should not affect Device monitoring" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-521.5" y="1340" width="330" height="55" as="geometry" />
+          <mxGeometry x="-458" y="1361" width="330" height="55" as="geometry" />
         </mxCell>
         <mxCell id="5YhDHw9-SCcAPZygZfme-54" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontColor=#000000;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -546,8 +546,50 @@
         <mxCell id="5YhDHw9-SCcAPZygZfme-56" value="Performance" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1002" y="1531" width="87" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="5YhDHw9-SCcAPZygZfme-57" value="Dashboard" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-758" y="1494" width="77" height="26" as="geometry" />
+        <mxCell id="5YhDHw9-SCcAPZygZfme-57" value="API Performance" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-774" y="1494" width="109" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-58" value="Customer facing&amp;nbsp; public API has rate limit of &lt;br&gt;1000 request/min per minute per customer this is a min SLA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="1465" width="337" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-59" value="Each device produces messege every 1 minutes. &lt;br&gt;With 500k scale Kafka lag should be under 5000&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-458" y="1565" width="279" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-60" value="Messege queue performance" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-804" y="1568" width="174" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-61" value="Resource consumption" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-782" y="1649" width="141" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-62" value="CPU utilization should be below 70 percent&amp;nbsp; .&lt;br&gt;Memory below 80 percent otherwise &lt;br&gt;there shopuld be horizontal autoscale&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-458" y="1646" width="257" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-63" value="Interoperability" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1011.5" y="1819" width="97" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-64" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontColor=#000000;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1036" y="1733" as="sourcePoint" />
+            <mxPoint x="-180" y="1725" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-65" value="AP site survey import export&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-807" y="1765" width="171" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-66" value="System shoudl support importing Netowk Plan&amp;nbsp; &lt;br&gt;from other systems like ekhau , Cisco etc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="1761" width="267" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-67" value="Standard API format" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="1829" width="126" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-68" value="All APIs should be designed in&amp;nbsp; RESTfu with tokens for customer use" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-462" y="1842" width="384" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-69" value="Standard format" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="1899" width="104" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="5YhDHw9-SCcAPZygZfme-70" value="Geojson for Location, Standard CLI commands for AP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-455" y="1912" width="304" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
