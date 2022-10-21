@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-21T03:31:47.725Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="HZ11f6c-gZlkg59Rydjh" version="20.4.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-10-21T15:21:05.828Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="J9NVR6w9dZVxE6y0TJmb" version="20.4.0" type="github" pages="9">
   <diagram id="-ivZDV_DeqCRNgWoUYwM" name="Page-1">
     <mxGraphModel dx="1666" dy="898" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -696,8 +696,8 @@
         <mxCell id="Qhu_8WAzKQ8fNCI5rcHy-4" value="&lt;b&gt;Attribute Refinement&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-751" y="41" width="137" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Qhu_8WAzKQ8fNCI5rcHy-5" value="&lt;span style=&quot;font-size: 10pt;&quot;&gt;User satisfaction&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-740" y="90" width="148.5" height="38" as="geometry" />
+        <mxCell id="Qhu_8WAzKQ8fNCI5rcHy-5" value="&lt;span style=&quot;font-size: 10pt;&quot;&gt;Alert and Notification&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-751" y="90" width="148.5" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Qhu_8WAzKQ8fNCI5rcHy-6" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontColor=#000000;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -705,20 +705,20 @@
             <mxPoint x="-152" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qhu_8WAzKQ8fNCI5rcHy-7" value="&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;font color=&quot;#0d0c0c&quot;&gt;All Connected network devices list should have pagination &lt;b&gt;(M.M)&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-454.99609375" y="90.00390625" width="342" height="38" as="geometry" />
+        <mxCell id="Qhu_8WAzKQ8fNCI5rcHy-7" value="&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;font color=&quot;#0d0c0c&quot;&gt;User should get notified when subscription is abount to end&amp;nbsp;&amp;nbsp;&lt;b&gt;(M.L)&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-456.49609375" y="80.00390625" width="342" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="Qhu_8WAzKQ8fNCI5rcHy-8" value="&lt;b&gt;ASR&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-378" y="41" width="43" height="26" as="geometry" />
+        <mxCell id="Qhu_8WAzKQ8fNCI5rcHy-8" value="&lt;b&gt;ASR&amp;nbsp; &amp;nbsp;(&lt;font color=&quot;#994c00&quot;&gt;Business Value ,Impact On architecture&lt;/font&gt;)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="41" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qhu_8WAzKQ8fNCI5rcHy-9" value="&lt;span style=&quot;font-size: 10pt;&quot;&gt;Easy Navigation&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-740" y="157" width="148.5" height="38" as="geometry" />
+          <mxGeometry x="-756.75" y="140" width="148.5" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Qhu_8WAzKQ8fNCI5rcHy-10" value="&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;User should be able to Navigate to interested genre and content without much hassle (&lt;b&gt;M,L)&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="148" width="353" height="56" as="geometry" />
+          <mxGeometry x="-456.5" y="131" width="353" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="Qhu_8WAzKQ8fNCI5rcHy-12" value="&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;If network bandwidth is low video should buffer in low quality(&lt;b&gt;M,H)&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-458" y="217" width="353" height="56" as="geometry" />
+        <mxCell id="Qhu_8WAzKQ8fNCI5rcHy-12" value="&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;If network bandwidth is low video should buffer in low bitrate but should not stop streaming(&lt;b&gt;M,H)&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-462" y="217" width="353" height="56" as="geometry" />
         </mxCell>
         <mxCell id="Qhu_8WAzKQ8fNCI5rcHy-13" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontColor=#000000;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -730,22 +730,22 @@
           <mxGeometry x="-982.5" y="411" width="72" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Qhu_8WAzKQ8fNCI5rcHy-15" value="&lt;span style=&quot;font-size: 10pt;&quot;&gt;Application SLA&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-760" y="343" width="148.5" height="38" as="geometry" />
+          <mxGeometry x="-761" y="320" width="148.5" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Qhu_8WAzKQ8fNCI5rcHy-16" value="&lt;span style=&quot;font-size: 10pt;&quot;&gt;Application Should have an availability of 99.5 percent of the time (&lt;/span&gt;&lt;b style=&quot;font-size: 13.3333px;&quot;&gt;M,H)&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-462" y="332" width="305" height="38" as="geometry" />
+          <mxGeometry x="-470" y="320" width="305" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Qhu_8WAzKQ8fNCI5rcHy-17" value="&lt;span style=&quot;font-size: 10pt;&quot;&gt;Hardware failover&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-760" y="409" width="148.5" height="38" as="geometry" />
+          <mxGeometry x="-760" y="380" width="148.5" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Qhu_8WAzKQ8fNCI5rcHy-18" value="&lt;span style=&quot;font-size: 10pt;&quot;&gt;In case of node failover app should switchover to other node within 1 minute&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;(&lt;/span&gt;&lt;b style=&quot;font-size: 13.3333px;&quot;&gt;M,M)&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="403" width="305" height="38" as="geometry" />
+          <mxGeometry x="-467.5" y="373" width="305" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="Qhu_8WAzKQ8fNCI5rcHy-19" value="&lt;span style=&quot;font-size: 10pt;&quot;&gt;Network failure&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-760" y="480" width="148.5" height="38" as="geometry" />
+        <mxCell id="Qhu_8WAzKQ8fNCI5rcHy-19" value="&lt;span style=&quot;font-size: 10pt;&quot;&gt;Network failure (Server Side)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-762.5" y="430" width="148.5" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Qhu_8WAzKQ8fNCI5rcHy-20" value="&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;There should be a alternate network configured to recover within 20 seconds(&lt;/span&gt;&lt;b style=&quot;font-size: 13.3333px;&quot;&gt;H,M)&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="480" width="310" height="38" as="geometry" />
+          <mxGeometry x="-467" y="422" width="310" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Qhu_8WAzKQ8fNCI5rcHy-21" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontColor=#000000;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -757,16 +757,16 @@
           <mxGeometry x="-979" y="746" width="61" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Qhu_8WAzKQ8fNCI5rcHy-23" value="&lt;span style=&quot;font-size: 10pt;&quot;&gt;Data confidentiality&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-760" y="624" width="148.5" height="38" as="geometry" />
+          <mxGeometry x="-760" y="600" width="148.5" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="Qhu_8WAzKQ8fNCI5rcHy-24" value="&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;No hardcoded secrets should be present . all secrets should be encrypted &lt;b&gt;(H&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 13.3333px;&quot;&gt;,L)&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="611" width="305" height="38" as="geometry" />
+        <mxCell id="Qhu_8WAzKQ8fNCI5rcHy-24" value="&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;No hardcoded secrets should be present . all secrets should be encrypted &lt;b&gt;(H&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 13.3333px;&quot;&gt;,H)&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="590" width="305" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Qhu_8WAzKQ8fNCI5rcHy-25" value="&lt;span style=&quot;font-size: 10pt;&quot;&gt;Data Integrity&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-760" y="706" width="148.5" height="38" as="geometry" />
+          <mxGeometry x="-760" y="680" width="148.5" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="Qhu_8WAzKQ8fNCI5rcHy-26" value="&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;There should be enough security present to&amp;nbsp; make sure Users without permission will not be able to make changes to customer data&lt;/span&gt;&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;&lt;b&gt;(H&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 13.3333px;&quot;&gt;,M)&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="700" width="305" height="38" as="geometry" />
+        <mxCell id="Qhu_8WAzKQ8fNCI5rcHy-26" value="&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;There should be enough security present to&amp;nbsp; make sure Users without permission will not be able to make changes to customer data such as preference&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;&lt;b&gt;(H&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 13.3333px;&quot;&gt;,M)&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-462" y="690" width="305" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Qhu_8WAzKQ8fNCI5rcHy-27" value="&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;There should not be any unintended modification to data without user interaction&lt;/span&gt;&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;&lt;b&gt;(M&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 13.3333px;&quot;&gt;,M)&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-460" y="778" width="194" height="61" as="geometry" />
@@ -774,11 +774,20 @@
         <mxCell id="Qhu_8WAzKQ8fNCI5rcHy-30" value="&lt;span style=&quot;font-size: 10pt;&quot;&gt;Data Availabilty&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-760" y="856" width="148.5" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="Qhu_8WAzKQ8fNCI5rcHy-51" value="&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;Better protection against attacks such as DDOS&amp;nbsp;&lt;b&gt;(M&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 13.3333px;&quot;&gt;,M)&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Qhu_8WAzKQ8fNCI5rcHy-51" value="&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;Better protection against attacks such as DDOS,&amp;nbsp;&lt;b&gt;(M&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 13.3333px;&quot;&gt;,M)&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-465" y="856" width="305" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="Qhu_8WAzKQ8fNCI5rcHy-54" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Adaptive quality&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-751" y="230" width="120" height="30" as="geometry" />
+        <mxCell id="Qhu_8WAzKQ8fNCI5rcHy-54" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Adaptive Streaming&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-765.25" y="217" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u5Xu4MF3x50w8Ct2YiJU-2" value="&lt;span style=&quot;font-size: 10pt;&quot;&gt;Network failure (Client Side)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-765.25" y="480" width="148.5" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="u5Xu4MF3x50w8Ct2YiJU-3" value="&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;There should be an option to save content locally in a app (&amp;nbsp;&lt;b&gt;M&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 13.3333px;&quot;&gt;,M)&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-467.5" y="480" width="337" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="u5Xu4MF3x50w8Ct2YiJU-4" value="&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;Credit card Data , Personal data should not be leaked&amp;nbsp;&lt;b&gt;(H&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 13.3333px;&quot;&gt;,M)&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-462" y="628" width="305" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -1014,6 +1023,107 @@
           <mxGeometry x="-0.3628" y="-1" relative="1" as="geometry">
             <mxPoint x="-25" y="11" as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rGdtDFNjvgYzC6uDp5Sw" name="Page-9">
+    <mxGraphModel dx="4974" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TRGSdHKP8SUF499gaNI7-1" value="UI " style="swimlane;fontFamily=Verdana;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3203" y="51" width="303" height="159" as="geometry" />
+        </mxCell>
+        <mxCell id="TRGSdHKP8SUF499gaNI7-2" value="Angular Engine" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="TRGSdHKP8SUF499gaNI7-1">
+          <mxGeometry x="15" y="41" width="115" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="TRGSdHKP8SUF499gaNI7-3" value="Google Clojure" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="TRGSdHKP8SUF499gaNI7-1">
+          <mxGeometry x="15" y="99" width="115" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="TRGSdHKP8SUF499gaNI7-4" value="GraphQl Interface" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="TRGSdHKP8SUF499gaNI7-1">
+          <mxGeometry x="153" y="41" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TRGSdHKP8SUF499gaNI7-5" value="Platform" style="swimlane;fontFamily=Verdana;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3204" y="230" width="310" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="TRGSdHKP8SUF499gaNI7-24" value="AWS" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="TRGSdHKP8SUF499gaNI7-5">
+          <mxGeometry y="20" width="300" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="TRGSdHKP8SUF499gaNI7-6" value="Kubernetes" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="TRGSdHKP8SUF499gaNI7-5">
+          <mxGeometry x="15" y="41" width="115" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="TRGSdHKP8SUF499gaNI7-7" value="Networking&#xa; Overlay" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="TRGSdHKP8SUF499gaNI7-5">
+          <mxGeometry x="15" y="99" width="115" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="TRGSdHKP8SUF499gaNI7-8" value="Container Runtime" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="TRGSdHKP8SUF499gaNI7-5">
+          <mxGeometry x="160" y="50" width="115" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="TRGSdHKP8SUF499gaNI7-9" value="Nginx Rproxy" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="TRGSdHKP8SUF499gaNI7-5">
+          <mxGeometry x="160" y="110" width="115" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="TRGSdHKP8SUF499gaNI7-10" value="Deployment &#xa;tools" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="TRGSdHKP8SUF499gaNI7-5">
+          <mxGeometry x="15" y="160" width="115" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="TRGSdHKP8SUF499gaNI7-11" value="Infrastructure" style="swimlane;fontFamily=Verdana;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2850" y="45.5" width="300" height="184.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TRGSdHKP8SUF499gaNI7-12" value="EV Cache" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="TRGSdHKP8SUF499gaNI7-11">
+          <mxGeometry x="15" y="41" width="115" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="TRGSdHKP8SUF499gaNI7-13" value="Prometheus&#xa; monitoring" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="TRGSdHKP8SUF499gaNI7-11">
+          <mxGeometry x="15" y="84.5" width="115" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="TRGSdHKP8SUF499gaNI7-14" value="Cassandra" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="TRGSdHKP8SUF499gaNI7-11">
+          <mxGeometry x="160" y="41" width="115" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="TRGSdHKP8SUF499gaNI7-15" value="Grafana &#xa;dashboard" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="TRGSdHKP8SUF499gaNI7-11">
+          <mxGeometry x="160" y="99" width="115" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="TRGSdHKP8SUF499gaNI7-16" value="Humio &#xa;Log ingest" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="TRGSdHKP8SUF499gaNI7-11">
+          <mxGeometry x="15" y="138" width="115" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="TRGSdHKP8SUF499gaNI7-17" value="Application" style="swimlane;fontFamily=Verdana;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2850" y="260" width="310" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="TRGSdHKP8SUF499gaNI7-18" value="Device &#xa;connector" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="TRGSdHKP8SUF499gaNI7-17">
+          <mxGeometry x="15" y="41" width="115" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="TRGSdHKP8SUF499gaNI7-19" value="Configurarion" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="TRGSdHKP8SUF499gaNI7-17">
+          <mxGeometry x="15" y="84.5" width="115" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="TRGSdHKP8SUF499gaNI7-20" value="Monitoring" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="TRGSdHKP8SUF499gaNI7-17">
+          <mxGeometry x="160" y="41" width="115" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="TRGSdHKP8SUF499gaNI7-21" value="Packet capture" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="TRGSdHKP8SUF499gaNI7-17">
+          <mxGeometry x="160" y="99" width="115" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="TRGSdHKP8SUF499gaNI7-22" value="Network &#xa;Planner" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="TRGSdHKP8SUF499gaNI7-17">
+          <mxGeometry x="15" y="131" width="115" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="TRGSdHKP8SUF499gaNI7-23" value="AI insights" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="TRGSdHKP8SUF499gaNI7-17">
+          <mxGeometry x="160" y="150" width="115" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="TRGSdHKP8SUF499gaNI7-25" value="Deployment Pipeline" style="swimlane;fontFamily=Verdana;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3049" y="510" width="310" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="TRGSdHKP8SUF499gaNI7-26" value="Nebula" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="TRGSdHKP8SUF499gaNI7-25">
+          <mxGeometry x="15" y="41" width="115" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="TRGSdHKP8SUF499gaNI7-27" value="Janitor Monkey" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="TRGSdHKP8SUF499gaNI7-25">
+          <mxGeometry x="15" y="84.5" width="115" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="TRGSdHKP8SUF499gaNI7-28" value="Baker" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="TRGSdHKP8SUF499gaNI7-25">
+          <mxGeometry x="160" y="41" width="115" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="TRGSdHKP8SUF499gaNI7-29" value="AMI builder" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="TRGSdHKP8SUF499gaNI7-25">
+          <mxGeometry x="160" y="99" width="115" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="TRGSdHKP8SUF499gaNI7-30" value="Spinnaker" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="TRGSdHKP8SUF499gaNI7-25">
+          <mxGeometry x="15" y="131" width="115" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="TRGSdHKP8SUF499gaNI7-31" value="Gradle" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontFamily=Verdana;" vertex="1" parent="TRGSdHKP8SUF499gaNI7-25">
+          <mxGeometry x="160" y="150" width="115" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
