@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-22T07:04:18.321Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="6cSE5dDLS4Ws0nPH2QuK" version="20.4.0" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-10-22T07:04:49.749Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="j-wAVsrg7BkelHzlm1SQ" version="20.4.0" type="github" pages="12">
   <diagram id="-ivZDV_DeqCRNgWoUYwM" name="Page-1">
     <mxGraphModel dx="1666" dy="898" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1584,6 +1584,9 @@
         </mxCell>
         <mxCell id="pZv6kWjGe-2TEloIUmUF-46" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;labelBackgroundColor=#FFFFFF;fontSize=17;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="38" y="122" width="30" height="672" as="geometry" />
+        </mxCell>
+        <mxCell id="pZv6kWjGe-2TEloIUmUF-47" value="Playback Scenario" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=17;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="729" y="24" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
